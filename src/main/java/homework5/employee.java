@@ -1,6 +1,6 @@
 package homework5;
 
-public class employee {
+public class employee { //
     private String full_name;
     private String post;
     private String email;
